@@ -1,0 +1,7 @@
+[package]
+name = "dice-roller"
+version = "0.1.0"
+authors = ["phillyai <sonagi.philly@gmail.com>"]
+
+[dependencies]
+rand = "*"
